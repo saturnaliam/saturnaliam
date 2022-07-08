@@ -9,6 +9,7 @@ Goals for 2022:
 - [x] Learn Java
 - [ ] Learn 6502 ASM
 - [ ] Finish TBOI Mod
+- [ ] Learn Rust
 
 
 ## PROJECTS:
