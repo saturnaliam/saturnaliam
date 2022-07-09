@@ -14,7 +14,7 @@ Goals for 2022:
 
 ## PROJECTS:
 
-### The Binding of Lucia Mod:
+### [The Binding of Lucia Mod](https://github.com/saturnaliam/Binding-of-Lucia):
 far too much to write here, check [here](https://github.com/saturnaliam/Binding-of-Lucia/issues) for my todo list!
 
 ### Conlang Creator:
