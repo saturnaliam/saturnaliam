@@ -31,7 +31,3 @@ far too much to write here, check [here](https://github.com/saturnaliam/Binding-
   - [ ] Collect images
   - [ ] Start writing text
   - [ ] Design CSS
-
-### The Binding of Isaac Modding Tools
-  - [ ] Tears rate calculator
-  - [ ] Functions for getting and setting tears rate
