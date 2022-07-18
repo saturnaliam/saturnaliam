@@ -3,7 +3,7 @@ I'm an amateur Java, JavaScript, and C++ programmer.
 
 Currently I don't have many projects, but I'm working on a mod for [The Binding of Isaac](https://github.com/saturnaliam/Binding-of-Lucia).
 
-Goals for 2022:
+Goals:
 - [ ] Finish major project
 - [x] Learn C++
 - [x] Learn Java
