@@ -36,3 +36,4 @@ theres just a few
 - [ ] OCaml
 - [ ] Rust
 - [ ] Scala
+- [ ] Python
