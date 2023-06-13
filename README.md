@@ -10,6 +10,7 @@ hello!! im lucia!! im a C, C++, Java, and JavaScript developer, and recently ive
 - HTML / CSS
 - Java
 - JavaScript / TypeScript
+- x86 Assembly
 
 ## Languages I Want to Learn:
 theres just a few
