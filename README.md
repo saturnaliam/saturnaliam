@@ -1,7 +1,8 @@
 ### lucia!
 
 ## about me!!
-hello!! im lucia!! im a C, C++, Java, and JavaScript developer, and recently ive been making a lot of mods and tools for the impossible quiz series!
+hello!! im lucia!! i mainly program in C++ and JavaScript, but for robotics i use Java!!
+i prefer low level programming, alongside modding/dissassembling games
 
 🚀 all of my code is blazingly slow 🚀
 
@@ -12,29 +13,3 @@ hello!! im lucia!! im a C, C++, Java, and JavaScript developer, and recently ive
 - JavaScript / TypeScript
 - x86 Assembly
 
-## Languages I Want to Learn:
-theres just a few
-- [ ] Groovy
-- [ ] Haskell
-- [ ] F#
-- [ ] Erlang
-- [ ] Elixir
-- [ ] Pascal
-- [ ] Raku
-- [ ] Perl
-- [ ] Common Lisp
-- [ ] Ruby
-- [ ] Swift
-- [ ] Objective C
-- [ ] Kotlin
-- [ ] Zig
-- [ ] Nim
-- [ ] Clojure
-- [ ] Dart
-- [ ] Go
-- [ ] FORTRAN
-- [ ] Julia
-- [ ] OCaml
-- [ ] Rust
-- [ ] Scala
-- [ ] Python
