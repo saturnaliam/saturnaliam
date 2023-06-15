@@ -8,6 +8,7 @@ i prefer low level programming, alongside modding/dissassembling games
 
 ## Languages Known:
 - C / C++
+- Lua
 - HTML / CSS
 - Java
 - JavaScript / TypeScript
