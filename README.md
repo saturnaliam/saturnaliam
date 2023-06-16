@@ -13,4 +13,4 @@ i prefer low level programming, alongside modding/dissassembling games!!
 - JavaScript / TypeScript
 - x86 Assembly
 ---
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=saturnaliam&layout=donut&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=saturnaliam&layout=donut&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
