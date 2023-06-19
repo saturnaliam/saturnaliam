@@ -4,6 +4,7 @@
 hello!! im lucia!! i mainly program in C++ and JavaScript, but for robotics i use Java!!
 i prefer low level programming, alongside modding/dissassembling games!!
 
+ive been programming for roughly seven years, using c++ for three years and javascript for five
 
 ## Languages Known:
 - C / C++
