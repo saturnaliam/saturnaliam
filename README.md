@@ -1,4 +1,4 @@
-### lucia!
+# lucia!
 
 ## about me!!
 hello!! im lucia!! i mainly program in C++ and JavaScript, but for robotics i use Java!!
