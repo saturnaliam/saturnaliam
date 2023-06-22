@@ -14,4 +14,4 @@ ive been programming for roughly seven years, using c++ for three years and java
 - JavaScript / TypeScript
 - x86 Assembly
 ---
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=saturnaliam&layout=donut&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=saturnaliam&layout=donut&langs_count=6&hide=CMake)](https://github.com/anuraghazra/github-readme-stats)
