@@ -13,5 +13,7 @@ ive been programming for roughly seven years, using c++ for three years and java
 - Java
 - JavaScript / TypeScript
 - x86 Assembly
+- Golang
+- Elixir
 ---
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=saturnaliam&layout=donut-vertical&langs_count=5&hide=CMake)](https://github.com/anuraghazra/github-readme-stats)
