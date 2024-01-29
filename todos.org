@@ -1,0 +1,67 @@
+#+TITLE: todos!!
+
+* programs [0/2]
+- [ ] Add more features to [swf header extractor](https://github.com/saturnaliam/swf-header-extractor).
+  - [ ] LZMA decompression
+
+- [ ] Rewrite [mars](https://github.com/saturnaliam/mars) + add more to the toolkit.
+
+- [ ] Remake [TIQ Rich Presence](https://github.com/saturnaliam/TIQ-RPC) with better programming + more features.
+
+- [ ] Remake [TIQ Demo TAS](https://github.com/saturnaliam/TIQ-Demo-TAS) to allow faster times + easier recording of the TAS.
+
+- [ ] Remake [TIQ TASing Tool](https://github.com/saturnaliam/TIQ-TASing-Info).
+
+- [ ] Mod menu for TIQ.
+
+- [ ] Mod menu for PvZ.
+
+- [ ] Actually make a decent language.
+
+- [ ] Custom DLL injector.
+
+- [ ] Headers for modding PvZ.
+
+- [ ] Headers for modding TIQ.
+
+- [ ] Library for making ANSI not horrible to work with.
+
+- [ ] TAS for TIQ.
+
+- [ ] Remake my website.
+
+* things to learn
+ ** languages
+  - COBOL
+
+  - FORTRAN
+  - Objective-C [^1]
+  - Pascal
+  - Erlang
+  - APL
+  - Rust
+  - Kotlin
+  - PHP
+  - Common Lisp
+  - OCaml
+  - Crystal
+  - Groovy
+  - Scala
+  - Haskell
+  - Idris
+  - R
+  - Racket
+  - Perl
+  - MATLAB
+  - Smalltalk
+  - Simula
+  - Scheme
+  - V
+  - Zig
+  - Clojure
+  ### tools
+  - Astro
+  - ncurses
+  - Angular
+
+[^1]: i swear im normal
