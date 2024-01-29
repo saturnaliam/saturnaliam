@@ -1,6 +1,6 @@
 #+TITLE: todos!!
 
-* programs [0/2]
+* programs [0/14]
 - [ ] Add more features to [swf header extractor](https://github.com/saturnaliam/swf-header-extractor).
   - [ ] LZMA decompression
 
@@ -31,37 +31,36 @@
 - [ ] Remake my website.
 
 * things to learn
- ** languages
-  - COBOL
+** languages [0/26]
+  - [ ] COBOL
 
-  - FORTRAN
-  - Objective-C [^1]
-  - Pascal
-  - Erlang
-  - APL
-  - Rust
-  - Kotlin
-  - PHP
-  - Common Lisp
-  - OCaml
-  - Crystal
-  - Groovy
-  - Scala
-  - Haskell
-  - Idris
-  - R
-  - Racket
-  - Perl
-  - MATLAB
-  - Smalltalk
-  - Simula
-  - Scheme
-  - V
-  - Zig
-  - Clojure
-  ### tools
-  - Astro
-  - ncurses
-  - Angular
+  - [ ] FORTRAN
 
-[^1]: i swear im normal
+  - [ ] Objective-C
+  - [ ] Pascal
+  - [ ] Erlang
+  - [ ] APL
+  - [ ] Rust
+  - [ ] Kotlin
+  - [ ] PHP
+  - [ ] Common Lisp
+  - [ ] OCaml
+  - [ ] Crystal
+  - [ ] Groovy
+  - [ ] Scala
+  - [ ] Haskell
+  - [ ] Idris
+  - [ ] R
+  - [ ] Racket
+  - [ ] Perl
+  - [ ] MATLAB
+  - [ ] Smalltalk
+  - [ ] Simula
+  - [ ] Scheme
+  - [ ] V
+  - [ ] Zig
+  - [ ] Clojure
+** tools [0/3]
+  - [ ] Astro
+  - [ ] ncurses
+  - [ ] Angular
