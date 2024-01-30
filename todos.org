@@ -1,6 +1,6 @@
 #+TITLE: todos!!
 
-* programs [0/14]
+* programs [0/16]
 - [ ] Add more features to [swf header extractor](https://github.com/saturnaliam/swf-header-extractor).
   - [ ] LZMA decompression
 
@@ -30,36 +30,54 @@
 
 - [ ] Remake my website.
 
+- [ ] Convert Raspberry Pi to a music player
+  - [ ] Sockets / some network interface for connecting from an external computer.
+  - [ ] Ability to actually play the music.
+
+- [ ] Code line counter.
+  - [ ] Count total lines.
+  - [ ] Count code lines (lines - lines that are blank/comments).
+  - [ ] Count total characters.
+  - [ ] Count code characters (same idea as code lines, just with characters instead).
+
 * things to learn
-** languages [0/26]
+** languages [0/12]
   - [ ] COBOL
 
   - [ ] FORTRAN
 
-  - [ ] Objective-C
   - [ ] Pascal
-  - [ ] Erlang
+
   - [ ] APL
+
   - [ ] Rust
+
   - [ ] Kotlin
-  - [ ] PHP
+
   - [ ] Common Lisp
+
   - [ ] OCaml
+
   - [ ] Crystal
+
   - [ ] Groovy
+
   - [ ] Scala
+
   - [ ] Haskell
+
   - [ ] Idris
-  - [ ] R
-  - [ ] Racket
+
   - [ ] Perl
-  - [ ] MATLAB
-  - [ ] Smalltalk
-  - [ ] Simula
-  - [ ] Scheme
+
   - [ ] V
+
   - [ ] Zig
+
   - [ ] Clojure
+
+  - [ ] Raku
+
 ** tools [0/3]
   - [ ] Astro
   - [ ] ncurses
