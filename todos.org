@@ -30,8 +30,19 @@
 
 - [ ] Remake my website.
 
-- [ ] Convert Raspberry Pi to a music player
-  - [ ] Sockets / some network interface for connecting from an external computer.
+- [-] Convert Raspberry Pi to a music player
+  - [-] Sockets / some network interface for connecting from an external computer.
+    - [X] Some special format for messages.
+      - [X] Magic number.
+      - [X] Version.
+      - [X] Command type.
+      - [X] Body size.
+      - [X] Body
+
+    - [ ] Implement proper security.
+      - [ ] Password verification.
+      - [ ] Input sanitization.
+
   - [ ] Ability to actually play the music.
 
 - [ ] Code line counter.
